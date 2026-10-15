@@ -1,4 +1,4 @@
-# ServicioVentas
+Tecnologías principales
 Node.js  
 Plataforma de ejecución de JavaScript en el servidor.
 → Permite crear tu API REST.
@@ -18,3 +18,5 @@ Cliente oficial de PostgreSQL para Node.js.
 dotenv  
 Librería para manejar variables de entorno desde .env.
 → Mantiene seguras tus credenciales y configuración.
+
+Se seguira documentando
